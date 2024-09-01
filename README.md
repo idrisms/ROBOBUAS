@@ -1,0 +1,9 @@
+SUMO ROBOT AUTO
+
+Bagai mana nak mula
+
+- Download semua kod dalam satu folder
+- Install Arduino software kalua belum
+- install CH341 untuk microcontroller esp32 kalau belum
+- Buka SUMOROBOTAUTO.ino menggunakan perisian ARDUINO
+- Cara-cara ubah tetapan ada di dalam itu.
