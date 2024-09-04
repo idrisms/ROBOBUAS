@@ -6,5 +6,5 @@ Bagai mana nak mula
 - Install Arduino software kalau belum
 - Install board manager ESP32 dari Espressif
 - install CH341 untuk microcontroller esp32 kalau belum (https://www.wch-ic.com/downloads/CH341SER_ZIP.html)
-- Buka SUMOROBOTAUTO.ino menggunakan perisian ARDUINO
+- Buka SUMOROBOTAUTO_ROBOBUAS.ino menggunakan perisian ARDUINO
 - Cara-cara ubah tetapan ada di dalam itu.
