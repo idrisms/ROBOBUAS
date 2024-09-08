@@ -27,6 +27,11 @@ Bagai mana nak mula
 - Sambungkan arduino anda dan pilih port yang telah aktif. Akan ade bunyi sesuatu di PC/Laptop anda sekiranya ESp32-30 di pasangkan sudah di kesan. Tekan Tools >> PORT >> Nombor port anda
 ![image](https://github.com/user-attachments/assets/a3b698e5-4871-4168-9591-fe34de632508)
 
+- Waktu Muat Naik code di dalam ESP32,kadang-kadang perlu tekan butang Boot pada ESP32 waktu connecting keluar titik-titik......
+- ![image](https://github.com/user-attachments/assets/910f7cf3-5f70-49f8-bba0-6b48ae54edd3)
+- ![image](https://github.com/user-attachments/assets/92d780cf-f5a8-451f-8d12-6d1ca22ae6fb)
+
+
 
 **Untuk RC**
 - Download MOTOR_ESP32HOTRC_V01 dan upload ke dalam robobuas esp32 board 
