@@ -21,15 +21,27 @@ Bagai mana nak mula
 - Install CH341SER dengan menekan butang "INSTALL"
 - ![image](https://github.com/user-attachments/assets/d0e25c16-c637-4360-a863-792ecece3bfb)
 
+- Bagaimana nak muat naik code. Tekan >> Tools >> Esp32 >> ESP32-WROOM-DA Module
+- ![image](https://github.com/user-attachments/assets/326f17ee-cffa-4a50-be4a-181087ee252b)
+
+- Sambungkan arduino anda dan pilih port yang telah aktif. Akan ade bunyi sesuatu di PC/Laptop anda sekiranya ESp32-30 di pasangkan sudah di kesan. Tekan Tools >> PORT >> Nombor port anda
+![image](https://github.com/user-attachments/assets/a3b698e5-4871-4168-9591-fe34de632508)
+
+
 **Untuk RC**
--Download MOTOR_ESP32HOTRC_V01 dan upload ke dalam robobuas esp32 board 
+- Download MOTOR_ESP32HOTRC_V01 dan upload ke dalam robobuas esp32 board 
 - Ikut seperti pendawaian di dalam https://sites.google.com/view/robobuasbuyov1
+- JIka Board anda bukan ROBOBUAS BUYO, sila tukar nombor bin dalam kod berdasarkan nombor pin anda.
+- ![image](https://github.com/user-attachments/assets/3e7951b3-e09e-4ede-81b9-f3e0e3a2b73a)
+
 - Hidupkan RC controller
 - "BIND" receiver dengan transmitter bergantung kepada jenis RC controller anda
 - Hidupkan Robot setelah semua pendawaian telah di semak. sebarang kerosakan board tidak ditanggung sekiranya semakan tidak di buat terlebih dahulu.**Pastikan RCcontroller tidak ditekan**
 - Robot akan bergerak sendiri di awal suis dihidupkan selama beberapa saat namun ia akan berhenti sendiri sekiranyaia telah tersambung ke RC Controller
 - Biasanya lampu receiver akan menyala tanpa berkelip sekiranya telah bersambung dengan RC controller
-- Jika robot telah tersambung kepada controller, tetapi masinh ada bunyi atau pergerakan yang perlahan, tinggikan nilai "OFFSET" secara gandaan 10 dan muat naik kod yang telah diubah
+- Jika robot telah tersambung kepada controller, tetapi masih ada bunyi atau pergerakan yang perlahan, tinggikan nilai "OFFSET" secara gandaan 10 dan muat naik kod yang telah diubah
+- ![image](https://github.com/user-attachments/assets/24fe0820-5f2f-4300-9850-a7cc85b97f7c)
+
 - **AMARAN- Sila cabut ESP32 daripada ROBOBUAS untuk muat naikkod kerana board akan menyalurkan kuasa dari kabel USB ke Motor dan boleh merosakkan PC/LAPTOP sekiranya dibiarkan untuk tempoh yang lama**
 - Tambah nilai offset sehinga tiada pergerakan walaupun RC controller tidak ditekan
 - Sekirannya gerakan terbalik,tukar wayar dc motor kepada wayar pasangannya
