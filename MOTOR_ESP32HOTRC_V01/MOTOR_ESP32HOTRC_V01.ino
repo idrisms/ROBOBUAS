@@ -21,7 +21,7 @@ int ch1Max = 2000;  // read from serial monitor
 int ch2Min = 1000;  // read from serial monitor
 int ch2Max = 2000;  // read from serial monitor
 
-int offset = 20;  // Offset value for STOP function, get value from Serial Monitor
+int offset = 40;  // Offset value for STOP function, get value from Serial Monitor
 int val;
 
 void setup() {
