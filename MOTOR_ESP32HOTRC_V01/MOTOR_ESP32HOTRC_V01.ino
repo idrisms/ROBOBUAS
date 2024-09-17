@@ -43,13 +43,13 @@ void loop() {
   // put your main code here, to run repeatedly:
   // read the input channels
   ch1 = pulseIn(chA, HIGH, 40000);  //Read and store channel 1
-  ch1 = constrain(ch1, 1000, 2000);
+  //ch1 = constrain(ch1, 1000, 2000);
   Serial.print("Ch1:");  //Display text string on Serial Monitor to distinguish variables
   Serial.print(ch1);     //Print in the value of channel 1
   Serial.print("|");
 
   ch2 = pulseIn(chB, HIGH, 40000);
-  ch2 = constrain(ch2, 1000, 2000);
+  //ch2 = constrain(ch2, 1000, 2000);
   Serial.print("Ch2:");
   Serial.print(ch2);
   Serial.print("|");
