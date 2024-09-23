@@ -2,7 +2,7 @@ ROBOBUAS
 
 Bagai mana nak mula
 
-- Muat turun semua kod dalam satu folder untuk sumo auto
+1- Muat turun semua kod dalam satu folder untuk sumo auto
 - Install Arduino software kalau belum (https://www.arduino.cc/en/software)
 - ![image](https://github.com/user-attachments/assets/d5e1ac11-e52f-4b1e-b002-7e3a9ed0469f)
 
