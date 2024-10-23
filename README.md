@@ -2,7 +2,7 @@ ROBOBUAS
 
 Bagai mana nak mula
 
-1 - Muat turun semua kod dalam satu folder untuk sumo auto
+1 - Muat turun semua kod dalam satu folder untuk sumo auto, untuk RC guna kod dalam MOTOR_ESP32HOTRC_V01
 2 - Install Arduino software kalau belum (https://www.arduino.cc/en/software)
 - ![image](https://github.com/user-attachments/assets/d5e1ac11-e52f-4b1e-b002-7e3a9ed0469f)
 
