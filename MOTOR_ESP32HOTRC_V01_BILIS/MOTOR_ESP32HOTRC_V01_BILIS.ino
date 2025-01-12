@@ -12,7 +12,8 @@ const int chB = 1;  ///on ESP
 
 int ch1;  //Variables to store and display the values of each channel
 int ch2;  //Variables to store and display the values of each channel
-
+int ch1prev = 0;// stop jerking because suddenly value disconnect (-ve value)
+int ch2prev = 0;
 int ch1Min = 1000;  // read from serial monitor
 int ch1Max = 2000;  // read from serial monitor
 int ch2Min = 1000;  // read from serial monitorQ
@@ -41,17 +42,24 @@ void loop() {
   // put your main code here, to run repeatedly:
   // read the input channels
   ch1 = pulseIn(chA, HIGH);  //Read and store channel 1
- // ch1=2000;
-                             // ch1 = constrain(ch1, 1000, 2000);
-  Serial.print("Ch1:");      //Display text string on Serial Monitor to distinguish variables
-  Serial.print(ch1);         //Print in the value of channel 1
+  if (ch1 < 500) {
+    ch1 = ch1prev;
+  }
+  ch1prev = ch1;
+  Serial.print("Ch1:");  //Display text string on Serial Monitor to distinguish variables
+  Serial.print(ch1);     //Print in the value of channel 1
   Serial.print("|");
 
+
   ch2 = pulseIn(chB, HIGH);
-  // ch2 = constrain(ch2, 1000, 2000);
+  if (ch2 < 500) {
+    ch2 = ch2prev;
+  }
+  ch2prev = ch2;
   Serial.print("Ch2:");
   Serial.print(ch2);
   Serial.print("|");
+
 
   //LEFT & RIGHT
   int SpeedCh1 = map(ch1, ch1Min, ch1Max, -255, 255);
