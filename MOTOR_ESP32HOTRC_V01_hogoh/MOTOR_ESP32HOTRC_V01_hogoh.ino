@@ -1,4 +1,4 @@
-const int chA = 13;  //on ESP channel 1 dari controller anda
+const int chA = 13;  //on ESP channel 1 dari controller anda//
 // cara sambungan, V dari ESP (5V)- Barismerah ke V dari Reciever
 // cara sambungan, G dari ESP ke G dari Reciever
 // cara sambungan, Pin 13 dari ESP sambung ke S receiver (yang mula-mula sekali)
