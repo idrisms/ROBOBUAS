@@ -21,7 +21,7 @@ Bagai mana nak mula
 6 - Install CH341SER dengan menekan butang "INSTALL"
 - ![image](https://github.com/user-attachments/assets/d0e25c16-c637-4360-a863-792ecece3bfb)
 
-7 - Bagaimana nak muat naik code. Tekan >> Tools >> Esp32 >> ESP32-WROOM-DA Module
+7 - Bagaimana nak muat naik code. Tekan >> Tools >> Board >> ESP32-WROOM-DA Module
 - ![image](https://github.com/user-attachments/assets/326f17ee-cffa-4a50-be4a-181087ee252b)
 
 8 - Sambungkan arduino anda dan pilih port yang telah aktif. Akan ade bunyi sesuatu di PC/Laptop anda sekiranya ESp32-30 di pasangkan sudah di kesan. Tekan Tools >> PORT >> Nombor port anda
