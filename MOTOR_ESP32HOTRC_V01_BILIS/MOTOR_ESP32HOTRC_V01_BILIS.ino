@@ -5,10 +5,10 @@ const int chA = 0;  //on ESP channel 1 dari controller anda
 const int chB = 1;  ///on ESP
 
 
-#define RPWM1_PIN 2 //ESP32 C3//ROBOBUAS BILIS V1.0
-#define LPWM1_PIN 3
+#define RPWM1_PIN 3 //ESP32 C3//ROBOBUAS BILIS V2.0
+#define LPWM1_PIN 4
 #define RPWM2_PIN 7
-#define LPWM2_PIN 8
+#define LPWM2_PIN 10
 
 int ch1;  //Variables to store and display the values of each channel
 int ch2;  //Variables to store and display the values of each channel
