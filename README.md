@@ -11,14 +11,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/SF0n9ZDPM6c/0.jpg)](https://youtube.com/shorts/SF0n9ZDPM6c?si=8_inQVv74NJLRzca)
 
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/SF0n9ZDPM6c" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
+https://www.youtube.com/shorts/SF0n9ZDPM6c
 
 ROBOBUAS
 
