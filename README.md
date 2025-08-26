@@ -3,7 +3,7 @@
 ## Demo Video untuk buyo menggunakan apps android
 ## Demo (Banner Besar)
 <a href="https://youtube.com/shorts/SF0n9ZDPM6c?si=8_inQVv74NJLRzca">
-  <img src="https://img.youtube.com/vi/SF0n9ZDPM6c/0.jpg" alt="YouTube Demo" width="100%"/>
+  <img src="https://img.youtube.com/vi/SF0n9ZDPM6c/0.jpg" alt="YouTube Demo" width="50%"/>
 </a>
 ## Demo (Saiz Standard)
 [![Tonton Video](https://img.youtube.com/vi/SF0n9ZDPM6c/0.jpg)](https://youtube.com/shorts/SF0n9ZDPM6c?si=8_inQVv74NJLRzca)
