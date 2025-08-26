@@ -2,7 +2,7 @@
 
 ## Demo Video untuk buyo menggunakan apps android
 
-[![Watch the video]](https://youtube.com/shorts/SF0n9ZDPM6c?si=8_inQVv74NJLRzca)
+https://youtube.com/shorts/SF0n9ZDPM6c?si=8_inQVv74NJLRzca
 
 ROBOBUAS
 
