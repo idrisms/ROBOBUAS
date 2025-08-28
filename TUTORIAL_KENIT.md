@@ -17,6 +17,4 @@
 7 - Bagaimana nak muat naik code. Tekan >> Tools >> Board >> Raspberry Pi Pico >> Zero
 ![image](https://github.com/user-attachments/assets/806dfca0-0bdd-4f81-a2c8-55750980f4a8)
 
-8 - Tekan dan tahan tombol boot pada papan Kenit , hubungkan kenit ke port USB komputer menggunakan kabel Micro USB, dan lepaskan tombol setelah komputer mengenali disk removable (RPI-RP2).
-
-9 - Pilih port setelah di laptop/pc kenalpasti board dan muat naik seperti biasa
+8 - Pilih port setelah di laptop/pc kenalpasti board dan muat naik seperti biasa
