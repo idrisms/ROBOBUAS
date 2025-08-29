@@ -1,4 +1,4 @@
-1 - Muat turun code RC GAGGOH V2.2
+1 - Muat turun code RC GAGGOH V2.2 (RC_GAGGOH_V2_2neo.ino untuk yang ada battery 12V safety-below 10V), (RC_GAGGOH_V2_2neo_noSafetyBat.ino untuk yang takde safety battery)
 
 2 - Install Arduino software kalau belum (https://www.arduino.cc/en/software)
 - ![image](https://github.com/user-attachments/assets/d5e1ac11-e52f-4b1e-b002-7e3a9ed0469f)
