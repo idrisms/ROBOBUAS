@@ -1,4 +1,4 @@
-1 - Muat turun code kenit
+1 - Muat turun code kenit/gagoh
 
 2 - Install Arduino software kalau belum (https://www.arduino.cc/en/software)
 - ![image](https://github.com/user-attachments/assets/d5e1ac11-e52f-4b1e-b002-7e3a9ed0469f)
@@ -17,4 +17,6 @@
 7 - Bagaimana nak muat naik code. Tekan >> Tools >> Board >> Raspberry Pi Pico >> Zero
 ![image](https://github.com/user-attachments/assets/806dfca0-0bdd-4f81-a2c8-55750980f4a8)
 
-8 - Pilih port setelah di laptop/pc kenalpasti board dan muat naik seperti biasa
+8 - Install library Adafruit Neopixel jika guna code untuk Gagoh.
+
+9 - Pilih port setelah di laptop/pc kenalpasti board dan muat naik seperti biasa
