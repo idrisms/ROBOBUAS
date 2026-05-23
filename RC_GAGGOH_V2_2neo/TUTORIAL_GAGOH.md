@@ -17,4 +17,8 @@
 7 - Bagaimana nak muat naik code. Tekan >> Tools >> Board >> Raspberry Pi Pico >> Zero
 ![image](https://github.com/user-attachments/assets/806dfca0-0bdd-4f81-a2c8-55750980f4a8)
 
-8 - Pilih port setelah di laptop/pc kenalpasti board dan muat naik seperti biasa
+8 - Install library Adafruit Neopixel jika guna code untuk Gagoh. Tekan icon libreary, cari neopixel dan install library neopixel yang dibulatkan
+<img width="918" height="679" alt="579013854-72b96216-1686-4d35-9036-d260c8034658" src="https://github.com/user-attachments/assets/93e8a770-a439-4a2e-87e4-1aa8bdfb1fdf" />
+
+9 - Pilih port setelah di laptop/pc kenalpasti board dan muat naik seperti biasa
+
