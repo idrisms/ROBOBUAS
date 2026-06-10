@@ -32,9 +32,11 @@ Kemudian pilih kawasan carian dan cari esp32
 - ![image](https://github.com/user-attachments/assets/7f73965b-8ea4-4c4f-b3d6-dc67cd00a48c)
 
 10 - Jika nak gunakan battery lipo 2s atau tak mahunguna safety battery, sila tukar nilai VMIN = 9.9 kepada 6.6 untuk lipo 2s (7.4V) atau kepada 0.0 jika anda tak mau safety pada battery
+
 <img width="665" height="362" alt="image" src="https://github.com/user-attachments/assets/2f609b82-070c-4610-bbaa-0289ccb6fadc" />
 
 11 - Install Semua library yang diperlukan
+
 <img width="619" height="221" alt="image" src="https://github.com/user-attachments/assets/a5b34a0a-6c2c-4202-b947-d8186da44f6f" />
 
 
