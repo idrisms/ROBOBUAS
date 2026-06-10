@@ -59,10 +59,7 @@ Kemudian pilih kawasan carian dan cari esp32
 - "BIND" receiver dengan transmitter bergantung kepada jenis RC controller anda
 - Hidupkan Robot setelah semua pendawaian telah di semak. sebarang kerosakan board tidak ditanggung sekiranya semakan tidak di buat terlebih dahulu.**Pastikan RCcontroller tidak ditekan**
 - Biasanya lampu receiver akan menyala tanpa berkelip sekiranya telah bersambung dengan RC controller
-- Jika robot telah tersambung kepada controller, tetapi masih ada bunyi atau pergerakan yang perlahan, tinggikan nilai "OFFSET" secara gandaan 10 dan muat naik kod yang telah diubah
-- ![image](https://github.com/user-attachments/assets/24fe0820-5f2f-4300-9850-a7cc85b97f7c)
-
-- Tambah nilai offset sehinga tiada pergerakan walaupun RC controller tidak ditekan
+- Jika robot telah tersambung kepada controller, tetapi masih ada bunyi atau pergerakan yang perlahan, ejas setting dekat remote
 - Sekiranya gerakan terbalik,tukar wayar dc motor kepada wayar pasangannya
 - Sekiranya semua langkah-langkah ini diikuti dengan teliti, InsyaALLAH robot akan berfungsi
 
