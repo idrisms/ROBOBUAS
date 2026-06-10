@@ -34,19 +34,18 @@ Kemudian pilih kawasan carian dan cari esp32
 
 10 - Jika nak gunakan battery lipo 2s atau tak mahunguna safety battery, sila tukar nilai VMIN = 9.9 kepada 6.6 untuk lipo 2s (7.4V) atau kepada 0.0 jika anda tak mau safety pada battery
 
+11-Contoh cara nak install library. Tekan icon library, cari neopixel dan install library enopixel yang dibulatkan. Instal yang ada error sahaja
+<img width="918" height="679" alt="579013854-72b96216-1686-4d35-9036-d260c8034658" src="https://github.com/user-attachments/assets/00171d11-8d2e-4ab1-b9cb-0ecace462004" />
+
 <img width="665" height="362" alt="image" src="https://github.com/user-attachments/assets/2f609b82-070c-4610-bbaa-0289ccb6fadc" />
 
-11 - Install Semua library yang diperlukan
+12 - Install Semua library yang diperlukan
 
 <img width="1002" height="503" alt="image" src="https://github.com/user-attachments/assets/f487eced-0d60-463d-a499-70cdde57eed6" />
 
 <img width="915" height="742" alt="image" src="https://github.com/user-attachments/assets/e968ef02-49dc-4d3f-baa7-1f679f76fa79" />
 
 <img width="838" height="620" alt="image" src="https://github.com/user-attachments/assets/f74990e1-9cda-45b3-8a26-481f32ea544f" />
-
-
-12-Contoh cara nak install library. Tekan icon library, cari neopixel dan install library enopixel yang dibulatkan. Instal yang ada error sahaja
-<img width="918" height="679" alt="579013854-72b96216-1686-4d35-9036-d260c8034658" src="https://github.com/user-attachments/assets/00171d11-8d2e-4ab1-b9cb-0ecace462004" />
 
 13 - Waktu Muat Naik code di dalam ESP32,kadang-kadang perlu tekan butang Boot pada ESP32 waktu connecting keluar titik-titik......
 - ![image](https://github.com/user-attachments/assets/910f7cf3-5f70-49f8-bba0-6b48ae54edd3)
