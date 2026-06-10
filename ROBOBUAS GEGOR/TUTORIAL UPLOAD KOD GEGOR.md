@@ -3,6 +3,7 @@ ROBOBUAS GEGOR
 Bagai mana nak mula
 
 1 - Muat turun kod RC_GEGOR_V1_0_FULL_VOLTAGE_LOCK.ino
+
 2 - Install Arduino software kalau belum (https://www.arduino.cc/en/software)
 - ![image](https://github.com/user-attachments/assets/d5e1ac11-e52f-4b1e-b002-7e3a9ed0469f)
 
