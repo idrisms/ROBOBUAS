@@ -22,7 +22,7 @@ Kemudian pilih kawasan carian dan cari esp32
 - ![image](https://github.com/user-attachments/assets/d0e25c16-c637-4360-a863-792ecece3bfb)
 
 7 - Bagaimana nak muat naik code. Tekan >> Tools >> Esp32 >> ESP32-WROOM-DA Module
-7 - Bagaimana nak muat naik code. Tekan >> Tools >> Board >> ESP32-WROOM-DA Module
+ 
 - ![image](https://github.com/user-attachments/assets/326f17ee-cffa-4a50-be4a-181087ee252b)
 
 8 - Sambungkan arduino anda dan pilih port yang telah aktif. Akan ade bunyi sesuatu di PC/Laptop anda sekiranya ESp32-30 di pasangkan sudah di kesan. Tekan Tools >> PORT >> Nombor port anda
@@ -37,10 +37,17 @@ Kemudian pilih kawasan carian dan cari esp32
 
 11 - Install Semua library yang diperlukan
 
-<img width="619" height="221" alt="image" src="https://github.com/user-attachments/assets/a5b34a0a-6c2c-4202-b947-d8186da44f6f" />
+<img width="1002" height="503" alt="image" src="https://github.com/user-attachments/assets/f487eced-0d60-463d-a499-70cdde57eed6" />
+
+<img width="915" height="742" alt="image" src="https://github.com/user-attachments/assets/e968ef02-49dc-4d3f-baa7-1f679f76fa79" />
+
+<img width="838" height="620" alt="image" src="https://github.com/user-attachments/assets/f74990e1-9cda-45b3-8a26-481f32ea544f" />
 
 
-12 - Waktu Muat Naik code di dalam ESP32,kadang-kadang perlu tekan butang Boot pada ESP32 waktu connecting keluar titik-titik......
+12-Contoh cara nak install library. Tekan icon library, cari neopixel dan install library enopixel yang dibulatkan. Instal yang ada error sahaja
+<img width="918" height="679" alt="579013854-72b96216-1686-4d35-9036-d260c8034658" src="https://github.com/user-attachments/assets/00171d11-8d2e-4ab1-b9cb-0ecace462004" />
+
+13 - Waktu Muat Naik code di dalam ESP32,kadang-kadang perlu tekan butang Boot pada ESP32 waktu connecting keluar titik-titik......
 - ![image](https://github.com/user-attachments/assets/910f7cf3-5f70-49f8-bba0-6b48ae54edd3)
 - ![image](https://github.com/user-attachments/assets/92d780cf-f5a8-451f-8d12-6d1ca22ae6fb)
 
