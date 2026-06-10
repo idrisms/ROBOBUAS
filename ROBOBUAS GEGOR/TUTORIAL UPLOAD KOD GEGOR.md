@@ -34,7 +34,7 @@ Kemudian pilih kawasan carian dan cari esp32
 
 10 - Jika nak gunakan battery lipo 2s atau tak mahunguna safety battery, sila tukar nilai VMIN = 9.9 kepada 6.6 untuk lipo 2s (7.4V) atau kepada 0.0 jika anda tak mau safety pada battery
 
-11-Contoh cara nak install library. Tekan icon library, cari neopixel dan install library enopixel yang dibulatkan. Instal yang ada error sahaja
+11-Contoh cara nak install library. Tekan icon library, cari neopixel dan install library Neopixel yang dibulatkan.
 <img width="918" height="679" alt="579013854-72b96216-1686-4d35-9036-d260c8034658" src="https://github.com/user-attachments/assets/00171d11-8d2e-4ab1-b9cb-0ecace462004" />
 
 <img width="665" height="362" alt="image" src="https://github.com/user-attachments/assets/2f609b82-070c-4610-bbaa-0289ccb6fadc" />
