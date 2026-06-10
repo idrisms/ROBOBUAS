@@ -17,7 +17,7 @@
 7 - Bagaimana nak muat naik code. Tekan >> Tools >> Board >> Raspberry Pi Pico >> Zero
 ![image](https://github.com/user-attachments/assets/806dfca0-0bdd-4f81-a2c8-55750980f4a8)
 
-8 - Install library Adafruit Neopixel jika guna code untuk Gagoh. Tekan icon libreary, cari neopixel dan install library enopixel yang dibulatkan
+8 - Install library Adafruit Neopixel jika guna code untuk Gagoh. Tekan icon library, cari neopixel dan install library enopixel yang dibulatkan
 <img width="918" height="679" alt="579013854-72b96216-1686-4d35-9036-d260c8034658" src="https://github.com/user-attachments/assets/00171d11-8d2e-4ab1-b9cb-0ecace462004" />
 
 
